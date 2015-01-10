@@ -1,0 +1,37 @@
+C:\Users\Sérgio\Desktop\Trab. Inter\Trab. Inter\bin\Debug\Trab.Inter.exe.config
+C:\Users\Sérgio\Desktop\Trab. Inter\Trab. Inter\bin\Debug\Trab.Inter.exe
+C:\Users\Sérgio\Desktop\Trab. Inter\Trab. Inter\bin\Debug\Trab.Inter.pdb
+C:\Users\Sérgio\Desktop\Trab. Inter\Trab. Inter\obj\Debug\Trab. Inter.csprojResolveAssemblyReference.cache
+C:\Users\Sérgio\Desktop\Trab. Inter\Trab. Inter\obj\Debug\Trab.Inter.Properties.Resources.resources
+C:\Users\Sérgio\Desktop\Trab. Inter\Trab. Inter\obj\Debug\Trab. Inter.csproj.GenerateResource.Cache
+C:\Users\Sérgio\Desktop\Trab. Inter\Trab. Inter\obj\Debug\Trab.Inter.exe
+C:\Users\Sérgio\Desktop\Trab. Inter\Trab. Inter\obj\Debug\Trab.Inter.pdb
+C:\Users\Sérgio\Desktop\Trab. Inter\Trab. Inter\obj\Debug\Trab.Inter.VOTAÇÃO.resources
+C:\Users\Sérgio\Desktop\Trab. Inter - Copia\Trab. Inter\bin\Debug\Trab.Inter.exe.config
+C:\Users\Sérgio\Desktop\Trab. Inter - Copia\Trab. Inter\obj\Debug\Trab.Inter.exe
+C:\Users\Sérgio\Desktop\Trab. Inter - Copia\Trab. Inter\obj\Debug\Trab.Inter.pdb
+C:\Users\Sérgio\Desktop\Trab. Inter - Copia\Trab. Inter\bin\Debug\Trab.Inter.exe
+C:\Users\Sérgio\Desktop\Trab. Inter - Copia\Trab. Inter\bin\Debug\Trab.Inter.pdb
+C:\Users\Sérgio\Desktop\Trab. Inter - Copia\Trab. Inter\obj\Debug\Trab. Inter.csprojResolveAssemblyReference.cache
+C:\Users\Sérgio\Desktop\Trab. Inter - Copia\Trab. Inter\obj\Debug\Trab.Inter.VOTAÇÃO.resources
+C:\Users\Sérgio\Desktop\Trab. Inter - Copia\Trab. Inter\obj\Debug\Trab.Inter.Properties.Resources.resources
+C:\Users\Sérgio\Desktop\Trab. Inter - Copia\Trab. Inter\obj\Debug\Trab. Inter.csproj.GenerateResource.Cache
+E:\Trab. Inter - Copia\Trab. Inter\bin\Debug\Trab.Inter.exe.config
+E:\Trab. Inter - Copia\Trab. Inter\obj\Debug\Trab.Inter.exe
+E:\Trab. Inter - Copia\Trab. Inter\obj\Debug\Trab.Inter.pdb
+E:\Trab. Inter - Copia\Trab. Inter\bin\Debug\Trab.Inter.exe
+E:\Trab. Inter - Copia\Trab. Inter\bin\Debug\Trab.Inter.pdb
+E:\Trab. Inter - Copia\Trab. Inter\obj\Debug\Trab. Inter.csprojResolveAssemblyReference.cache
+E:\Trab. Inter - Copia\Trab. Inter\obj\Debug\Trab.Inter.VOTAÇÃO.resources
+E:\Trab. Inter - Copia\Trab. Inter\obj\Debug\Trab.Inter.Properties.Resources.resources
+E:\Trab. Inter - Copia\Trab. Inter\obj\Debug\Trab. Inter.csproj.GenerateResource.Cache
+C:\Users\Sérgio\Desktop\PUC\3º Período\T.I\Trab. Inter\Trab. Inter\bin\Debug\Trab.Inter.exe.config
+C:\Users\Sérgio\Desktop\PUC\3º Período\T.I\Trab. Inter\Trab. Inter\obj\Debug\Trab.Inter.exe
+C:\Users\Sérgio\Desktop\PUC\3º Período\T.I\Trab. Inter\Trab. Inter\obj\Debug\Trab.Inter.pdb
+C:\Users\Sérgio\Desktop\PUC\3º Período\T.I\Trab. Inter\Trab. Inter\bin\Debug\Trab.Inter.exe
+C:\Users\Sérgio\Desktop\PUC\3º Período\T.I\Trab. Inter\Trab. Inter\bin\Debug\Trab.Inter.pdb
+C:\Users\Sérgio\Desktop\PUC\3º Período\T.I\Trab. Inter\Trab. Inter\obj\Debug\Trab. Inter.csprojResolveAssemblyReference.cache
+C:\Users\Sérgio\Desktop\PUC\3º Período\T.I\Trab. Inter\Trab. Inter\obj\Debug\Trab.Inter.Properties.Resources.resources
+C:\Users\Sérgio\Desktop\PUC\3º Período\T.I\Trab. Inter\Trab. Inter\obj\Debug\Trab. Inter.csproj.GenerateResource.Cache
+C:\Users\Sérgio\Desktop\PUC\3º Período\T.I\Trab. Inter\Trab. Inter\obj\Debug\Trab.Inter.VOTACAO.resources
+C:\Users\Sérgio\Desktop\PUC\3º Período\T.I\Trab. Inter\Trab. Inter\obj\Debug\Trab.Inter.Form2.resources

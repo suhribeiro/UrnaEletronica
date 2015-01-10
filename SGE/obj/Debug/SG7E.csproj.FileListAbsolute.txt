@@ -1,0 +1,10 @@
+C:\Users\Sérgio\Desktop\PUC\3º Período\T.I\SGE\SGE\bin\Debug\SGE.exe.config
+C:\Users\Sérgio\Desktop\PUC\3º Período\T.I\SGE\SGE\obj\Debug\SGE.exe
+C:\Users\Sérgio\Desktop\PUC\3º Período\T.I\SGE\SGE\obj\Debug\SGE.pdb
+C:\Users\Sérgio\Desktop\PUC\3º Período\T.I\SGE\SGE\bin\Debug\SGE.exe
+C:\Users\Sérgio\Desktop\PUC\3º Período\T.I\SGE\SGE\bin\Debug\SGE.pdb
+C:\Users\Sérgio\Desktop\PUC\3º Período\T.I\SGE\SGE\obj\Debug\SG7E.csprojResolveAssemblyReference.cache
+C:\Users\Sérgio\Desktop\PUC\3º Período\T.I\SGE\SGE\obj\Debug\SGE.VOTACAO.resources
+C:\Users\Sérgio\Desktop\PUC\3º Período\T.I\SGE\SGE\obj\Debug\SGE.Form2.resources
+C:\Users\Sérgio\Desktop\PUC\3º Período\T.I\SGE\SGE\obj\Debug\SGE.Properties.Resources.resources
+C:\Users\Sérgio\Desktop\PUC\3º Período\T.I\SGE\SGE\obj\Debug\SG7E.csproj.GenerateResource.Cache

@@ -1,0 +1,165 @@
+C:\Users\Sérgio\Desktop\PUC\3º Período\T.I\Trab. Inter\Trab. Inter\obj\Debug\SGE.VOTACAO.resources
+C:\Users\Sérgio\Desktop\PUC\3º Período\T.I\Trab. Inter\Trab. Inter\obj\Debug\SGE.csproj.GenerateResource.Cache
+C:\Users\Sérgio\Desktop\PUC\3º Período\T.I\Trab. Inter\Trab. Inter\bin\Debug\SGE.exe.config
+C:\Users\Sérgio\Desktop\PUC\3º Período\T.I\Trab. Inter\Trab. Inter\obj\Debug\SGE.Properties.Resources.resources
+C:\Users\Sérgio\Desktop\PUC\3º Período\T.I\Trab. Inter\Trab. Inter\bin\Debug\SGE.exe
+C:\Users\Sérgio\Desktop\PUC\3º Período\T.I\Trab. Inter\Trab. Inter\bin\Debug\SGE.pdb
+C:\Users\Sérgio\Desktop\PUC\3º Período\T.I\Trab. Inter\Trab. Inter\obj\Debug\SGE.exe
+C:\Users\Sérgio\Desktop\PUC\3º Período\T.I\Trab. Inter\Trab. Inter\obj\Debug\SGE.pdb
+C:\Users\Sérgio\Desktop\PUC\3º Período\T.I\Trab. Inter\Trab. Inter\obj\Debug\SGE.Form2.resources
+C:\Users\Sérgio\Desktop\PUC\3º Período\T.I\SGE\SGE\bin\Debug\SGE.exe.config
+C:\Users\Sérgio\Desktop\PUC\3º Período\T.I\SGE\SGE\obj\Debug\SGE.exe
+C:\Users\Sérgio\Desktop\PUC\3º Período\T.I\SGE\SGE\obj\Debug\SGE.pdb
+C:\Users\Sérgio\Desktop\PUC\3º Período\T.I\SGE\SGE\obj\Debug\SGE.csprojResolveAssemblyReference.cache
+C:\Users\Sérgio\Desktop\PUC\3º Período\T.I\SGE\SGE\obj\Debug\SGE.Properties.Resources.resources
+C:\Users\Sérgio\Desktop\PUC\3º Período\T.I\SGE\SGE\obj\Debug\SGE.csproj.GenerateResource.Cache
+C:\Users\Sérgio\Desktop\PUC\3º Período\T.I\SGE\SGE\bin\Debug\SGE.exe
+C:\Users\Sérgio\Desktop\PUC\3º Período\T.I\SGE\SGE\bin\Debug\SGE.pdb
+C:\Users\Sérgio\Desktop\PUC\3º Período\T.I\SGE\SGE\obj\Debug\SGE.Tela_Dep_Estadual.resources
+C:\Users\Sérgio\Desktop\PUC\3º Período\T.I\SGE\SGE\obj\Debug\SGE.Tela_Dep_Federal.resources
+C:\Users\Sérgio\Desktop\PUC\3º Período\T.I\SGE\SGE\obj\Debug\SGE.Tela_Senador.resources
+C:\Users\Sérgio\Desktop\PUC\3º Período\T.I\SGE\SGE\obj\Debug\SGE.Tela_Governador.resources
+C:\Users\Sérgio\Desktop\PUC\3º Período\T.I\SGE\SGE\obj\Debug\SGE.Tela_Presidente.resources
+C:\Users\Sérgio\Desktop\PUC\3º Período\T.I\SGE\SGE\obj\Debug\SGE.Tela_Fim.resources
+C:\Users\Sérgio\Desktop\PUC\3º Período\T.I\SGE\SGE\obj\Debug\SGE.Tela_Principal.resources
+C:\Users\Sérgio\Desktop\PUC\3º Período\T.I\SGE\SGE\obj\Debug\SGE.Urna.resources
+C:\Users\Sérgio\Desktop\PUC\3º Período\T.I\SGE\SGE\obj\Debug\SGE.Cadastro_Candidato.resources
+C:\Users\Rônel Dornas\Documents\Sistemas de Informação\4° Período\TI\SGE - Copia\SGE\bin\Debug\SGE.exe.config
+C:\Users\Rônel Dornas\Documents\Sistemas de Informação\4° Período\TI\SGE - Copia\SGE\obj\Debug\SGE.exe
+C:\Users\Rônel Dornas\Documents\Sistemas de Informação\4° Período\TI\SGE - Copia\SGE\obj\Debug\SGE.pdb
+C:\Users\Rônel Dornas\Documents\Sistemas de Informação\4° Período\TI\SGE - Copia\SGE\obj\Debug\SGE.csprojResolveAssemblyReference.cache
+C:\Users\Rônel Dornas\Documents\Sistemas de Informação\4° Período\TI\SGE - Copia\SGE\obj\Debug\SGE.Cadastro_Candidato.resources
+C:\Users\Rônel Dornas\Documents\Sistemas de Informação\4° Período\TI\SGE - Copia\SGE\obj\Debug\SGE.Tela_Fim.resources
+C:\Users\Rônel Dornas\Documents\Sistemas de Informação\4° Período\TI\SGE - Copia\SGE\obj\Debug\SGE.Tela_Presidente.resources
+C:\Users\Rônel Dornas\Documents\Sistemas de Informação\4° Período\TI\SGE - Copia\SGE\obj\Debug\SGE.Tela_Governador.resources
+C:\Users\Rônel Dornas\Documents\Sistemas de Informação\4° Período\TI\SGE - Copia\SGE\obj\Debug\SGE.Tela_Principal.resources
+C:\Users\Rônel Dornas\Documents\Sistemas de Informação\4° Período\TI\SGE - Copia\SGE\obj\Debug\SGE.Tela_Senador.resources
+C:\Users\Rônel Dornas\Documents\Sistemas de Informação\4° Período\TI\SGE - Copia\SGE\obj\Debug\SGE.Tela_Dep_Federal.resources
+C:\Users\Rônel Dornas\Documents\Sistemas de Informação\4° Período\TI\SGE - Copia\SGE\obj\Debug\SGE.Tela_Dep_Estadual.resources
+C:\Users\Rônel Dornas\Documents\Sistemas de Informação\4° Período\TI\SGE - Copia\SGE\obj\Debug\SGE.Properties.Resources.resources
+C:\Users\Rônel Dornas\Documents\Sistemas de Informação\4° Período\TI\SGE - Copia\SGE\obj\Debug\SGE.Urna.resources
+C:\Users\Rônel Dornas\Documents\Sistemas de Informação\4° Período\TI\SGE - Copia\SGE\obj\Debug\SGE.csproj.GenerateResource.Cache
+C:\Users\Rônel Dornas\Documents\Sistemas de Informação\4° Período\TI\SGE - Copia\SGE\bin\Debug\SGE.exe
+C:\Users\Rônel Dornas\Documents\Sistemas de Informação\4° Período\TI\SGE - Copia\SGE\bin\Debug\SGE.pdb
+C:\Users\Sérgio\Desktop\SGE - Copia\SGE\bin\Debug\SGE.exe.config
+C:\Users\Sérgio\Desktop\SGE - Copia\SGE\obj\Debug\SGE.exe
+C:\Users\Sérgio\Desktop\SGE - Copia\SGE\obj\Debug\SGE.pdb
+C:\Users\Sérgio\Desktop\SGE - Copia\SGE\bin\Debug\SGE.exe
+C:\Users\Sérgio\Desktop\SGE - Copia\SGE\bin\Debug\SGE.pdb
+C:\Users\Sérgio\Desktop\SGE - Copia\SGE\obj\Debug\SGE.csprojResolveAssemblyReference.cache
+C:\Users\Sérgio\Desktop\SGE - Copia\SGE\obj\Debug\SGE.Cadastro_Candidato.resources
+C:\Users\Sérgio\Desktop\SGE - Copia\SGE\obj\Debug\SGE.Tela_Fim.resources
+C:\Users\Sérgio\Desktop\SGE - Copia\SGE\obj\Debug\SGE.Tela_Presidente.resources
+C:\Users\Sérgio\Desktop\SGE - Copia\SGE\obj\Debug\SGE.Tela_Governador.resources
+C:\Users\Sérgio\Desktop\SGE - Copia\SGE\obj\Debug\SGE.Tela_Principal.resources
+C:\Users\Sérgio\Desktop\SGE - Copia\SGE\obj\Debug\SGE.Tela_Senador.resources
+C:\Users\Sérgio\Desktop\SGE - Copia\SGE\obj\Debug\SGE.Tela_Dep_Federal.resources
+C:\Users\Sérgio\Desktop\SGE - Copia\SGE\obj\Debug\SGE.Tela_Dep_Estadual.resources
+C:\Users\Sérgio\Desktop\SGE - Copia\SGE\obj\Debug\SGE.Properties.Resources.resources
+C:\Users\Sérgio\Desktop\SGE - Copia\SGE\obj\Debug\SGE.Urna.resources
+C:\Users\Sérgio\Desktop\SGE - Copia\SGE\obj\Debug\SGE.csproj.GenerateResource.Cache
+C:\Users\Sérgio\Desktop\SGE - Copia\SGE\obj\Debug\SGE.Cadastro_Partido.resources
+C:\Users\Sérgio\Desktop\SGE - Copia\SGE\obj\Debug\SGE.Login.resources
+C:\Users\Suellen\Desktop\SGE - Copia\SGE\bin\Debug\SGE.exe.config
+C:\Users\Suellen\Desktop\SGE - Copia\SGE\obj\Debug\SGE.exe
+C:\Users\Suellen\Desktop\SGE - Copia\SGE\obj\Debug\SGE.pdb
+C:\Users\Suellen\Desktop\SGE - Copia\SGE\bin\Debug\SGE.exe
+C:\Users\Suellen\Desktop\SGE - Copia\SGE\bin\Debug\SGE.pdb
+C:\Users\Suellen\Desktop\SGE - Copia\SGE\obj\Debug\SGE.csprojResolveAssemblyReference.cache
+C:\Users\Suellen\Desktop\SGE - Copia\SGE\obj\Debug\SGE.Cadastro_Candidato.resources
+C:\Users\Suellen\Desktop\SGE - Copia\SGE\obj\Debug\SGE.Cadastro_Partido.resources
+C:\Users\Suellen\Desktop\SGE - Copia\SGE\obj\Debug\SGE.Login.resources
+C:\Users\Suellen\Desktop\SGE - Copia\SGE\obj\Debug\SGE.Tela_Fim.resources
+C:\Users\Suellen\Desktop\SGE - Copia\SGE\obj\Debug\SGE.Tela_Presidente.resources
+C:\Users\Suellen\Desktop\SGE - Copia\SGE\obj\Debug\SGE.Tela_Governador.resources
+C:\Users\Suellen\Desktop\SGE - Copia\SGE\obj\Debug\SGE.Tela_Principal.resources
+C:\Users\Suellen\Desktop\SGE - Copia\SGE\obj\Debug\SGE.Tela_Senador.resources
+C:\Users\Suellen\Desktop\SGE - Copia\SGE\obj\Debug\SGE.Tela_Dep_Federal.resources
+C:\Users\Suellen\Desktop\SGE - Copia\SGE\obj\Debug\SGE.Tela_Dep_Estadual.resources
+C:\Users\Suellen\Desktop\SGE - Copia\SGE\obj\Debug\SGE.Properties.Resources.resources
+C:\Users\Suellen\Desktop\SGE - Copia\SGE\obj\Debug\SGE.Urna.resources
+C:\Users\Suellen\Desktop\SGE - Copia\SGE\obj\Debug\SGE.csproj.GenerateResource.Cache
+C:\Users\Suellen\Desktop\SGE - Copia\SGE\obj\Debug\SGE.Cadastro_Eleitor.resources
+C:\Users\Suellen\Desktop\SGE - Copia\SGE\obj\Debug\SGE.Consulta_Partido.resources
+C:\Users\Suellen\Desktop\SGE - Copia - Cópia\SGE\bin\Debug\SGE.exe.config
+C:\Users\Suellen\Desktop\SGE - Copia - Cópia\SGE\obj\Debug\SGE.exe
+C:\Users\Suellen\Desktop\SGE - Copia - Cópia\SGE\obj\Debug\SGE.pdb
+C:\Users\Suellen\Desktop\SGE - Copia - Cópia\SGE\obj\Debug\SGE.csprojResolveAssemblyReference.cache
+C:\Users\Suellen\Desktop\SGE - Copia - Cópia\SGE\obj\Debug\SGE.Cadastro_Candidato.resources
+C:\Users\Suellen\Desktop\SGE - Copia - Cópia\SGE\obj\Debug\SGE.Cadastro_Eleitor.resources
+C:\Users\Suellen\Desktop\SGE - Copia - Cópia\SGE\obj\Debug\SGE.Cadastro_Partido.resources
+C:\Users\Suellen\Desktop\SGE - Copia - Cópia\SGE\obj\Debug\SGE.Consulta_Partido.resources
+C:\Users\Suellen\Desktop\SGE - Copia - Cópia\SGE\obj\Debug\SGE.Login.resources
+C:\Users\Suellen\Desktop\SGE - Copia - Cópia\SGE\obj\Debug\SGE.Tela_Fim.resources
+C:\Users\Suellen\Desktop\SGE - Copia - Cópia\SGE\obj\Debug\SGE.Tela_Libera_Votacao.resources
+C:\Users\Suellen\Desktop\SGE - Copia - Cópia\SGE\obj\Debug\SGE.Tela_Presidente.resources
+C:\Users\Suellen\Desktop\SGE - Copia - Cópia\SGE\obj\Debug\SGE.Tela_Governador.resources
+C:\Users\Suellen\Desktop\SGE - Copia - Cópia\SGE\obj\Debug\SGE.Tela_Principal.resources
+C:\Users\Suellen\Desktop\SGE - Copia - Cópia\SGE\obj\Debug\SGE.Tela_Senador.resources
+C:\Users\Suellen\Desktop\SGE - Copia - Cópia\SGE\obj\Debug\SGE.Tela_Dep_Federal.resources
+C:\Users\Suellen\Desktop\SGE - Copia - Cópia\SGE\obj\Debug\SGE.Tela_Dep_Estadual.resources
+C:\Users\Suellen\Desktop\SGE - Copia - Cópia\SGE\obj\Debug\SGE.Properties.Resources.resources
+C:\Users\Suellen\Desktop\SGE - Copia - Cópia\SGE\obj\Debug\SGE.Urna.resources
+C:\Users\Suellen\Desktop\SGE - Copia - Cópia\SGE\obj\Debug\SGE.csproj.GenerateResource.Cache
+C:\Users\Suellen\Desktop\SGE - Copia - Cópia\SGE\bin\Debug\SGE.exe
+C:\Users\Suellen\Desktop\SGE - Copia - Cópia\SGE\bin\Debug\SGE.pdb
+C:\Users\Suellen\Desktop\SGE - Copia - Cópia\SGE\obj\Debug\SGE.Consulta_Candidato.resources
+C:\Users\Suellen\Desktop\SGE - Copia - Cópia\SGE\obj\Debug\SGE.Consulta_Eleitor.resources
+C:\Users\Sérgio\Desktop\SGE - Copia - Cópia\SGE\bin\Debug\SGE.exe.config
+C:\Users\Sérgio\Desktop\SGE - Copia - Cópia\SGE\obj\Debug\SGE.exe
+C:\Users\Sérgio\Desktop\SGE - Copia - Cópia\SGE\obj\Debug\SGE.pdb
+C:\Users\Sérgio\Desktop\SGE - Copia - Cópia\SGE\bin\Debug\SGE.exe
+C:\Users\Sérgio\Desktop\SGE - Copia - Cópia\SGE\bin\Debug\SGE.pdb
+C:\Users\Sérgio\Desktop\SGE - Copia - Cópia\SGE\obj\Debug\SGE.csprojResolveAssemblyReference.cache
+C:\Users\Sérgio\Desktop\SGE - Copia - Cópia\SGE\obj\Debug\SGE.Cadastro_Candidato.resources
+C:\Users\Sérgio\Desktop\SGE - Copia - Cópia\SGE\obj\Debug\SGE.Cadastro_Eleitor.resources
+C:\Users\Sérgio\Desktop\SGE - Copia - Cópia\SGE\obj\Debug\SGE.Cadastro_Partido.resources
+C:\Users\Sérgio\Desktop\SGE - Copia - Cópia\SGE\obj\Debug\SGE.Consulta_Candidato.resources
+C:\Users\Sérgio\Desktop\SGE - Copia - Cópia\SGE\obj\Debug\SGE.Consulta_Eleitor.resources
+C:\Users\Sérgio\Desktop\SGE - Copia - Cópia\SGE\obj\Debug\SGE.Consulta_Partido.resources
+C:\Users\Sérgio\Desktop\SGE - Copia - Cópia\SGE\obj\Debug\SGE.Login.resources
+C:\Users\Sérgio\Desktop\SGE - Copia - Cópia\SGE\obj\Debug\SGE.Tela_Fim.resources
+C:\Users\Sérgio\Desktop\SGE - Copia - Cópia\SGE\obj\Debug\SGE.Tela_Libera_Votacao.resources
+C:\Users\Sérgio\Desktop\SGE - Copia - Cópia\SGE\obj\Debug\SGE.Tela_Presidente.resources
+C:\Users\Sérgio\Desktop\SGE - Copia - Cópia\SGE\obj\Debug\SGE.Tela_Governador.resources
+C:\Users\Sérgio\Desktop\SGE - Copia - Cópia\SGE\obj\Debug\SGE.Tela_Principal.resources
+C:\Users\Sérgio\Desktop\SGE - Copia - Cópia\SGE\obj\Debug\SGE.Tela_Senador.resources
+C:\Users\Sérgio\Desktop\SGE - Copia - Cópia\SGE\obj\Debug\SGE.Tela_Dep_Federal.resources
+C:\Users\Sérgio\Desktop\SGE - Copia - Cópia\SGE\obj\Debug\SGE.Tela_Dep_Estadual.resources
+C:\Users\Sérgio\Desktop\SGE - Copia - Cópia\SGE\obj\Debug\SGE.Properties.Resources.resources
+C:\Users\Sérgio\Desktop\SGE - Copia - Cópia\SGE\obj\Debug\SGE.Urna.resources
+C:\Users\Sérgio\Desktop\SGE - Copia - Cópia\SGE\obj\Debug\SGE.csproj.GenerateResource.Cache
+C:\Users\Sérgio\Desktop\SGE - Copia - Cópia\SGE\obj\Debug\SGE.Edita_Candidato.resources
+C:\Users\Sérgio\Desktop\SGE - Copia - Cópia\SGE\obj\Debug\SGE.Tela_FInaliza_Votacao.resources
+C:\Users\Sérgio\Desktop\SGE - Copia - Cópia\SGE\obj\Debug\SGE.Relatorios.resources
+C:\Users\Sérgio\Desktop\SGE - Copia - Cópia\SGE\obj\Debug\RdlCompile.cache
+C:\Users\Sérgio\Desktop\SGE - Copia - Cópia\SGE\obj\Debug\RdlCompile.compiled
+C:\Users\Suellen\Desktop\PUC-SISTEMAS DE INFORMAÇÃO\4º periodo\TI\SGE - Final\SGE\bin\Debug\SGE.exe.config
+C:\Users\Suellen\Desktop\PUC-SISTEMAS DE INFORMAÇÃO\4º periodo\TI\SGE - Final\SGE\obj\Debug\SGE.exe
+C:\Users\Suellen\Desktop\PUC-SISTEMAS DE INFORMAÇÃO\4º periodo\TI\SGE - Final\SGE\obj\Debug\SGE.pdb
+C:\Users\Suellen\Desktop\PUC-SISTEMAS DE INFORMAÇÃO\4º periodo\TI\SGE - Final\SGE\bin\Debug\SGE.exe
+C:\Users\Suellen\Desktop\PUC-SISTEMAS DE INFORMAÇÃO\4º periodo\TI\SGE - Final\SGE\bin\Debug\SGE.pdb
+C:\Users\Suellen\Desktop\PUC-SISTEMAS DE INFORMAÇÃO\4º periodo\TI\SGE - Final\SGE\obj\Debug\SGE.csprojResolveAssemblyReference.cache
+C:\Users\Suellen\Desktop\PUC-SISTEMAS DE INFORMAÇÃO\4º periodo\TI\SGE - Final\SGE\obj\Debug\SGE.Cadastro_Candidato.resources
+C:\Users\Suellen\Desktop\PUC-SISTEMAS DE INFORMAÇÃO\4º periodo\TI\SGE - Final\SGE\obj\Debug\SGE.Cadastro_Eleitor.resources
+C:\Users\Suellen\Desktop\PUC-SISTEMAS DE INFORMAÇÃO\4º periodo\TI\SGE - Final\SGE\obj\Debug\SGE.Cadastro_Partido.resources
+C:\Users\Suellen\Desktop\PUC-SISTEMAS DE INFORMAÇÃO\4º periodo\TI\SGE - Final\SGE\obj\Debug\SGE.Consulta_Candidato.resources
+C:\Users\Suellen\Desktop\PUC-SISTEMAS DE INFORMAÇÃO\4º periodo\TI\SGE - Final\SGE\obj\Debug\SGE.Consulta_Eleitor.resources
+C:\Users\Suellen\Desktop\PUC-SISTEMAS DE INFORMAÇÃO\4º periodo\TI\SGE - Final\SGE\obj\Debug\SGE.Consulta_Partido.resources
+C:\Users\Suellen\Desktop\PUC-SISTEMAS DE INFORMAÇÃO\4º periodo\TI\SGE - Final\SGE\obj\Debug\SGE.Edita_Candidato.resources
+C:\Users\Suellen\Desktop\PUC-SISTEMAS DE INFORMAÇÃO\4º periodo\TI\SGE - Final\SGE\obj\Debug\SGE.Login.resources
+C:\Users\Suellen\Desktop\PUC-SISTEMAS DE INFORMAÇÃO\4º periodo\TI\SGE - Final\SGE\obj\Debug\SGE.Relatorios.resources
+C:\Users\Suellen\Desktop\PUC-SISTEMAS DE INFORMAÇÃO\4º periodo\TI\SGE - Final\SGE\obj\Debug\SGE.Tela_Fim.resources
+C:\Users\Suellen\Desktop\PUC-SISTEMAS DE INFORMAÇÃO\4º periodo\TI\SGE - Final\SGE\obj\Debug\SGE.Tela_FInaliza_Votacao.resources
+C:\Users\Suellen\Desktop\PUC-SISTEMAS DE INFORMAÇÃO\4º periodo\TI\SGE - Final\SGE\obj\Debug\SGE.Tela_Libera_Votacao.resources
+C:\Users\Suellen\Desktop\PUC-SISTEMAS DE INFORMAÇÃO\4º periodo\TI\SGE - Final\SGE\obj\Debug\SGE.Tela_Presidente.resources
+C:\Users\Suellen\Desktop\PUC-SISTEMAS DE INFORMAÇÃO\4º periodo\TI\SGE - Final\SGE\obj\Debug\SGE.Tela_Governador.resources
+C:\Users\Suellen\Desktop\PUC-SISTEMAS DE INFORMAÇÃO\4º periodo\TI\SGE - Final\SGE\obj\Debug\SGE.Tela_Principal.resources
+C:\Users\Suellen\Desktop\PUC-SISTEMAS DE INFORMAÇÃO\4º periodo\TI\SGE - Final\SGE\obj\Debug\SGE.Tela_Senador.resources
+C:\Users\Suellen\Desktop\PUC-SISTEMAS DE INFORMAÇÃO\4º periodo\TI\SGE - Final\SGE\obj\Debug\SGE.Tela_Dep_Federal.resources
+C:\Users\Suellen\Desktop\PUC-SISTEMAS DE INFORMAÇÃO\4º periodo\TI\SGE - Final\SGE\obj\Debug\SGE.Tela_Dep_Estadual.resources
+C:\Users\Suellen\Desktop\PUC-SISTEMAS DE INFORMAÇÃO\4º periodo\TI\SGE - Final\SGE\obj\Debug\SGE.Properties.Resources.resources
+C:\Users\Suellen\Desktop\PUC-SISTEMAS DE INFORMAÇÃO\4º periodo\TI\SGE - Final\SGE\obj\Debug\SGE.Urna.resources
+C:\Users\Suellen\Desktop\PUC-SISTEMAS DE INFORMAÇÃO\4º periodo\TI\SGE - Final\SGE\obj\Debug\SGE.csproj.GenerateResource.Cache
+C:\Users\Suellen\Desktop\PUC-SISTEMAS DE INFORMAÇÃO\4º periodo\TI\SGE - Final\SGE\obj\Debug\RdlCompile.cache
+C:\Users\Suellen\Desktop\PUC-SISTEMAS DE INFORMAÇÃO\4º periodo\TI\SGE - Final\SGE\obj\Debug\RdlCompile.compiled
